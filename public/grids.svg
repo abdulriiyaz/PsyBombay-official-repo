@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2245" height="1027" preserveAspectRatio="xMidYMid" viewBox="0 0 2245 1027" style="z-index:1;margin-right:-2px;display:block;background-repeat-y:initial;background-repeat-x:initial;animation-play-state:paused" ><g transform="translate(1122.5,513.5) scale(1,1) translate(-1122.5,-513.5)" style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused" ><defs style="animation-play-state:paused" ><linearGradient id="lg-0.8409921611150668" x1="0" x2="0" y1="0" y2="1" style="animation-play-state:paused" ><stop stop-color="#0a0a0a" offset="0.26" style="animation-play-state:paused" ></stop>
+
+  
+<stop stop-color="#28292f" offset="0.63" style="animation-play-state:paused" ></stop>
+
+  
+<stop stop-color="#28292f" offset="1" style="animation-play-state:paused" ></stop></linearGradient>
+
+
+<linearGradient id="fg-lg-0.8409921611150668" x1="0" x2="0" y1="0" y2="1" style="animation-play-state:paused" ><stop stop-color="#0a0a0a" stop-opacity="1" offset="0.26" style="animation-play-state:paused" ></stop>
+
+  
+<stop stop-color="#28292f" stop-opacity="0.66" offset="0.63" style="animation-play-state:paused" ></stop>
+
+  
+<stop stop-color="#28292f" stop-opacity="0" offset="1" style="animation-play-state:paused" ></stop></linearGradient>
+
+
+<style type="text/css" style="animation-play-state:paused" >path { fill: none; stroke: #ffffff; stroke-width: 2px }</style></defs>
+
+
+<rect x="0" y="0" width="2245" height="1027" fill="url(#lg-0.8409921611150668)" style="animation-play-state:paused" ></rect>
+<path d="M0 267.02 L-20766.250000000004 1027" style="animation-play-state:paused" ></path>
+<path d="M23.385416666666668 267.02 L-20310.234375000004 1027" style="animation-play-state:paused" ></path>
+<path d="M46.770833333333336 267.02 L-19854.218750000004 1027" style="animation-play-state:paused" ></path>
+<path d="M70.15625 267.02 L-19398.203125000004 1027" style="animation-play-state:paused" ></path>
+<path d="M93.54166666666667 267.02 L-18942.187500000004 1027" style="animation-play-state:paused" ></path>
+<path d="M116.92708333333333 267.02 L-18486.171875000004 1027" style="animation-play-state:paused" ></path>
+<path d="M140.3125 267.02 L-18030.156250000004 1027" style="animation-play-state:paused" ></path>
+<path d="M163.69791666666666 267.02 L-17574.140625000004 1027" style="animation-play-state:paused" ></path>
+<path d="M187.08333333333334 267.02 L-17118.125000000004 1027" style="animation-play-state:paused" ></path>
+<path d="M210.46875 267.02 L-16662.109375000004 1027" style="animation-play-state:paused" ></path>
+<path d="M233.85416666666666 267.02 L-16206.093750000004 1027" style="animation-play-state:paused" ></path>
+<path d="M257.2395833333333 267.02 L-15750.078125000004 1027" style="animation-play-state:paused" ></path>
+<path d="M280.625 267.02 L-15294.062500000004 1027" style="animation-play-state:paused" ></path>
+<path d="M304.0104166666667 267.02 L-14838.046875000004 1027" style="animation-play-state:paused" ></path>
+<path d="M327.3958333333333 267.02 L-14382.031250000004 1027" style="animation-play-state:paused" ></path>
+<path d="M350.78125 267.02 L-13926.015625000004 1027" style="animation-play-state:paused" ></path>
+<path d="M374.1666666666667 267.02 L-13470.000000000004 1027" style="animation-play-state:paused" ></path>
+<path d="M397.5520833333333 267.02 L-13013.984375000004 1027" style="animation-play-state:paused" ></path>
+<path d="M420.9375 267.02 L-12557.968750000002 1027" style="animation-play-state:paused" ></path>
+<path d="M444.3229166666667 267.02 L-12101.953125000002 1027" style="animation-play-state:paused" ></path>
+<path d="M467.7083333333333 267.02 L-11645.937500000002 1027" style="animation-play-state:paused" ></path>
+<path d="M491.09375 267.02 L-11189.921875000002 1027" style="animation-play-state:paused" ></path>
+<path d="M514.4791666666666 267.02 L-10733.906250000002 1027" style="animation-play-state:paused" ></path>
+<path d="M537.8645833333334 267.02 L-10277.890625000002 1027" style="animation-play-state:paused" ></path>
+<path d="M561.25 267.02 L-9821.875000000002 1027" style="animation-play-state:paused" ></path>
+<path d="M584.6354166666666 267.02 L-9365.859375000002 1027" style="animation-play-state:paused" ></path>
+<path d="M608.0208333333334 267.02 L-8909.843750000002 1027" style="animation-play-state:paused" ></path>
+<path d="M631.40625 267.02 L-8453.828125000002 1027" style="animation-play-state:paused" ></path>
+<path d="M654.7916666666666 267.02 L-7997.812500000002 1027" style="animation-play-state:paused" ></path>
+<path d="M678.1770833333334 267.02 L-7541.796875000002 1027" style="animation-play-state:paused" ></path>
+<path d="M701.5625 267.02 L-7085.781250000002 1027" style="animation-play-state:paused" ></path>
+<path d="M724.9479166666666 267.02 L-6629.765625000002 1027" style="animation-play-state:paused" ></path>
+<path d="M748.3333333333334 267.02 L-6173.750000000002 1027" style="animation-play-state:paused" ></path>
+<path d="M771.71875 267.02 L-5717.734375000002 1027" style="animation-play-state:paused" ></path>
+<path d="M795.1041666666666 267.02 L-5261.718750000002 1027" style="animation-play-state:paused" ></path>
+<path d="M818.4895833333334 267.02 L-4805.703125000002 1027" style="animation-play-state:paused" ></path>
+<path d="M841.875 267.02 L-4349.6875 1027" style="animation-play-state:paused" ></path>
+<path d="M865.2604166666666 267.02 L-3893.671875 1027" style="animation-play-state:paused" ></path>
+<path d="M888.6458333333334 267.02 L-3437.65625 1027" style="animation-play-state:paused" ></path>
+<path d="M912.03125 267.02 L-2981.640625 1027" style="animation-play-state:paused" ></path>
+<path d="M935.4166666666666 267.02 L-2525.625 1027" style="animation-play-state:paused" ></path>
+<path d="M958.8020833333334 267.02 L-2069.609375 1027" style="animation-play-state:paused" ></path>
+<path d="M982.1875 267.02 L-1613.59375 1027" style="animation-play-state:paused" ></path>
+<path d="M1005.5729166666666 267.02 L-1157.578125 1027" style="animation-play-state:paused" ></path>
+<path d="M1028.9583333333333 267.02 L-701.5625 1027" style="animation-play-state:paused" ></path>
+<path d="M1052.34375 267.02 L-245.546875 1027" style="animation-play-state:paused" ></path>
+<path d="M1075.7291666666667 267.02 L210.46875 1027" style="animation-play-state:paused" ></path>
+<path d="M1099.1145833333333 267.02 L666.484375 1027" style="animation-play-state:paused" ></path>
+<path d="M1122.5 267.02 L1122.5 1027" style="animation-play-state:paused" ></path>
+<path d="M1145.8854166666667 267.02 L1578.515625 1027" style="animation-play-state:paused" ></path>
+<path d="M1169.2708333333333 267.02 L2034.53125 1027" style="animation-play-state:paused" ></path>
+<path d="M1192.65625 267.02 L2490.546875 1027" style="animation-play-state:paused" ></path>
+<path d="M1216.0416666666667 267.02 L2946.5625 1027" style="animation-play-state:paused" ></path>
+<path d="M1239.4270833333333 267.02 L3402.578125 1027" style="animation-play-state:paused" ></path>
+<path d="M1262.8125 267.02 L3858.59375 1027" style="animation-play-state:paused" ></path>
+<path d="M1286.1979166666667 267.02 L4314.609375 1027" style="animation-play-state:paused" ></path>
+<path d="M1309.5833333333333 267.02 L4770.625 1027" style="animation-play-state:paused" ></path>
+<path d="M1332.96875 267.02 L5226.640625 1027" style="animation-play-state:paused" ></path>
+<path d="M1356.3541666666667 267.02 L5682.65625 1027" style="animation-play-state:paused" ></path>
+<path d="M1379.7395833333333 267.02 L6138.671875 1027" style="animation-play-state:paused" ></path>
+<path d="M1403.125 267.02 L6594.6875 1027" style="animation-play-state:paused" ></path>
+<path d="M1426.5104166666667 267.02 L7050.703125 1027" style="animation-play-state:paused" ></path>
+<path d="M1449.8958333333333 267.02 L7506.71875 1027" style="animation-play-state:paused" ></path>
+<path d="M1473.28125 267.02 L7962.734375 1027" style="animation-play-state:paused" ></path>
+<path d="M1496.6666666666667 267.02 L8418.75 1027" style="animation-play-state:paused" ></path>
+<path d="M1520.0520833333333 267.02 L8874.765625 1027" style="animation-play-state:paused" ></path>
+<path d="M1543.4375 267.02 L9330.78125 1027" style="animation-play-state:paused" ></path>
+<path d="M1566.8229166666667 267.02 L9786.796875 1027" style="animation-play-state:paused" ></path>
+<path d="M1590.2083333333333 267.02 L10242.8125 1027" style="animation-play-state:paused" ></path>
+<path d="M1613.59375 267.02 L10698.828125 1027" style="animation-play-state:paused" ></path>
+<path d="M1636.9791666666667 267.02 L11154.84375 1027" style="animation-play-state:paused" ></path>
+<path d="M1660.3645833333333 267.02 L11610.859375 1027" style="animation-play-state:paused" ></path>
+<path d="M1683.75 267.02 L12066.875000000004 1027" style="animation-play-state:paused" ></path>
+<path d="M1707.1354166666667 267.02 L12522.890625000004 1027" style="animation-play-state:paused" ></path>
+<path d="M1730.5208333333333 267.02 L12978.906250000004 1027" style="animation-play-state:paused" ></path>
+<path d="M1753.90625 267.02 L13434.921875000004 1027" style="animation-play-state:paused" ></path>
+<path d="M1777.2916666666667 267.02 L13890.937500000004 1027" style="animation-play-state:paused" ></path>
+<path d="M1800.6770833333333 267.02 L14346.953125000004 1027" style="animation-play-state:paused" ></path>
+<path d="M1824.0625 267.02 L14802.968750000004 1027" style="animation-play-state:paused" ></path>
+<path d="M1847.4479166666667 267.02 L15258.984375000004 1027" style="animation-play-state:paused" ></path>
+<path d="M1870.8333333333333 267.02 L15715.000000000004 1027" style="animation-play-state:paused" ></path>
+<path d="M1894.21875 267.02 L16171.015625000004 1027" style="animation-play-state:paused" ></path>
+<path d="M1917.6041666666667 267.02 L16627.031250000004 1027" style="animation-play-state:paused" ></path>
+<path d="M1940.9895833333333 267.02 L17083.046875000004 1027" style="animation-play-state:paused" ></path>
+<path d="M1964.375 267.02 L17539.062500000004 1027" style="animation-play-state:paused" ></path>
+<path d="M1987.7604166666667 267.02 L17995.078125000004 1027" style="animation-play-state:paused" ></path>
+<path d="M2011.1458333333333 267.02 L18451.093750000004 1027" style="animation-play-state:paused" ></path>
+<path d="M2034.53125 267.02 L18907.109375000004 1027" style="animation-play-state:paused" ></path>
+<path d="M2057.9166666666665 267.02 L19363.125000000004 1027" style="animation-play-state:paused" ></path>
+<path d="M2081.3020833333335 267.02 L19819.140625000004 1027" style="animation-play-state:paused" ></path>
+<path d="M2104.6875 267.02 L20275.156250000004 1027" style="animation-play-state:paused" ></path>
+<path d="M2128.0729166666665 267.02 L20731.171875000004 1027" style="animation-play-state:paused" ></path>
+<path d="M2151.4583333333335 267.02 L21187.187500000004 1027" style="animation-play-state:paused" ></path>
+<path d="M2174.84375 267.02 L21643.203125000004 1027" style="animation-play-state:paused" ></path>
+<path d="M2198.2291666666665 267.02 L22099.218750000004 1027" style="animation-play-state:paused" ></path>
+<path d="M2221.6145833333335 267.02 L22555.234375000004 1027" style="animation-play-state:paused" ></path>
+<path d="M2245 267.02 L23011.250000000004 1027" style="animation-play-state:paused" ></path>
+<g transform="matrix(1,0,0,1,0,0)" style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused" ><path d="M0 267.02 L2245 267.02" style="animation-play-state:paused" ></path></g>
+<g transform="matrix(1,0,0,1,0,0)" style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused" ><path d="M0 277.5752777777778 L2245 277.5752777777778" style="animation-play-state:paused" ></path></g>
+<g transform="matrix(1,0,0,1,0,0)" style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused" ><path d="M0 298.68583333333333 L2245 298.68583333333333" style="animation-play-state:paused" ></path></g>
+<g transform="matrix(1,0,0,1,0,0)" style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused" ><path d="M0 330.3516666666667 L2245 330.3516666666667" style="animation-play-state:paused" ></path></g>
+<g transform="matrix(1,0,0,1,0,0)" style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused" ><path d="M0 372.5727777777778 L2245 372.5727777777778" style="animation-play-state:paused" ></path></g>
+<g transform="matrix(1,0,0,1,0,0)" style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused" ><path d="M0 425.3491666666667 L2245 425.3491666666667" style="animation-play-state:paused" ></path></g>
+<g transform="matrix(1,0,0,1,0,0)" style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused" ><path d="M0 488.68083333333334 L2245 488.68083333333334" style="animation-play-state:paused" ></path></g>
+<g transform="matrix(1,0,0,1,0,0)" style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused" ><path d="M0 562.5677777777778 L2245 562.5677777777778" style="animation-play-state:paused" ></path></g>
+<g transform="matrix(1,0,0,1,0,0)" style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused" ><path d="M0 647.01 L2245 647.01" style="animation-play-state:paused" ></path></g>
+<g transform="matrix(1,0,0,1,0,0)" style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused" ><path d="M0 742.0074999999999 L2245 742.0074999999999" style="animation-play-state:paused" ></path></g>
+<g transform="matrix(1,0,0,1,0,0)" style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused" ><path d="M0 847.5602777777777 L2245 847.5602777777777" style="animation-play-state:paused" ></path></g>
+<g transform="matrix(1,0,0,1,0,0)" style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused" ><path d="M0 963.6683333333333 L2245 963.6683333333333" style="animation-play-state:paused" ></path></g>
+<rect x="0" y="0" width="2245" height="1027" fill="url(#fg-lg-0.8409921611150668)" style="animation-play-state:paused" ></rect></g></svg>

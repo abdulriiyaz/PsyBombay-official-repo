@@ -1,7 +1,7 @@
 import './globals.css';
-import { Changa } from 'next/font/google';
+import { Coda } from 'next/font/google';
 
-const changa = Changa({ subsets: ['latin'] });
+const coda = Coda({ weight: '400', subsets: ['latin'] });
 
 export const metadata = {
     title: 'Psybombay',
@@ -15,7 +15,7 @@ export default function RootLayout({
 }) {
     return (
         <html lang="en">
-            <body className={changa.className}>{children}</body>
+            <body className={coda.className}>{children}</body>
         </html>
     );
 }

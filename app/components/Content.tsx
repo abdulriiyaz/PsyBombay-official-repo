@@ -1,7 +1,9 @@
+import Loading from './Loading';
+
 const Content = () => {
     return (
-        <main className="border border-slate-400 w-full h-auto flex-1 grid place-items-center sm:w-1/2">
-            Content
+        <main className="w-full h-auto flex-1 grid place-items-center sm:w-1/2">
+            <Loading />
         </main>
     );
 };

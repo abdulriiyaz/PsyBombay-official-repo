@@ -1,6 +1,6 @@
 'use client';
 import React, { useState, useEffect, useRef } from 'react';
-import { GiThunderSkull } from 'react-icons/gi';
+import { GiDiamondsSmile } from 'react-icons/gi';
 
 const Header: React.FC = () => {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -31,43 +31,38 @@ const Header: React.FC = () => {
 
     return (
         <header className="bg-transparent w-full">
-            <div className="container mx-auto px-4 py-4 flex items-center justify-between">
+            <div className="container mx-auto px-4 flex items-center justify-between">
                 <div className="flex items-center">
-                    <GiThunderSkull
-                        style={{
-                            height: `80px`,
-                            width: `80px`,
-                        }}
-                        color="#b20a2c"
-                    />
-                    <h1 className="text-lg sm:text-3xl space-x-3 text-white">
-                        PsyBombay
-                    </h1>
+                    <div className="flex items-center space-x-8">
+                        {' '}
+                        <GiDiamondsSmile
+                            style={{
+                                height: `80px`,
+                                width: `80px`,
+                                padding: '5px',
+                            }}
+                            color="#92fe9d"
+                        />
+                        <h1 className="text-lg sm:text-3xl text-white">
+                            <h1 data-value="PsyBombay">PsyBombay</h1>
+                        </h1>
+                    </div>
                 </div>
 
                 <nav className="hidden sm:block">
-                    <ul className="flex space-x-4">
+                    <ul className="flex space-x-4 text-[#92fe9d]">
                         <li>
-                            <a
-                                href="#"
-                                className="text-white hover:text-gray-300"
-                            >
+                            <a href="#" className=" hover:text-gray-300">
                                 Join
                             </a>
                         </li>
                         <li>
-                            <a
-                                href="#"
-                                className="text-white hover:text-gray-300"
-                            >
+                            <a href="#" className=" hover:text-gray-300">
                                 Contact Us
                             </a>
                         </li>
                         <li>
-                            <a
-                                href="#"
-                                className="text-white hover:text-gray-300"
-                            >
+                            <a href="#" className=" hover:text-gray-300">
                                 About
                             </a>
                         </li>
